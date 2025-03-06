@@ -18,3 +18,8 @@ Criar um sistema que auxilie estudantes a monitorarem sua saúde mental enquanto
 
 ## Funcionalidades
 ## 1 - Monitoramento de Saúde Mental:
+
+•	Aplicativo ou plataforma web com questionários regulares (baseados em escalas validadas como PHQ-9 ou GAD-7).
+•	Identificação de padrões de humor, níveis de estresse e qualidade do sono.
+•	Envio de alertas caso os níveis indiquem necessidade de ajuda profissional.
+
