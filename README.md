@@ -15,3 +15,6 @@
 ## 🌟 Objetivo
 
 Criar um sistema que auxilie estudantes a monitorarem sua saúde mental enquanto utilizam interações com pets como uma forma de terapia e alívio do estresse acadêmico.
+
+## Funcionalidades
+## 1 - Monitoramento de Saúde Mental:
