@@ -1,6 +1,6 @@
 # # 🐶🗣️ Chatbot de Saúde Mental através de Pets com IA e AWS
 
-<p align="center"><i>Um chatbot que auxilie no tratamento mental com auxilio de pets.</i></p>
+<p align="center"><i>Um chatbot que auxilia no tratamento mental com auxilio de pets.</i></p>
 
 ## 📖 Índice
 
