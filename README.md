@@ -1,16 +1,16 @@
-# # 🐶🗣️ Chatbot de Saúde Mental através de Pets com IA e AWS
+## 🤖🧠🐾 Chatbot de Saúde Mental através de Pets com IA e AWS
 
 <p align="center"><i>Um chatbot que auxilia no tratamento mental com auxilio de pets.</i></p>
 
 ## 📖 Índice
 
-1. [ Monitoramento de Saúde Mental](#-arquitetura-preliminar-aws)
-2. [ Integração com Pet Shop](#-tecnologias-utilizadas)
-3. [ Conteúdo Educativo](#-execucao-e-utilizacao)
-4. [ Gamificação](#-estrutura-de-pastas)
-5. [ Comunidade e Apoio](#-desafios-e-dificuldades)
-6. [ Benefícios](#-contribuidores)
-7. [ Contribuidores](#-contribuidores)
+1.  Monitoramento de Saúde Mental
+2.  Integração com Pet Shop
+3.  Conteúdo Educativo
+4.  Gamificação
+5.  Comunidade e Apoio
+6.  Benefícios
+7.  Contribuidores
 
 ##  Objetivo
 
@@ -43,7 +43,7 @@ Criar um sistema que auxilie estudantes a monitorarem sua saúde mental enquanto
 - Fórum para estudantes compartilharem experiências.
 - Área para depoimentos sobre os benefícios emocionais de interagir com animais.
 
-## Benefícios
+## 6 - Benefícios
 
 - Melhora na saúde mental e emocional dos estudantes.
 - Incentivo a adotar e cuidar de animais.
@@ -51,13 +51,13 @@ Criar um sistema que auxilie estudantes a monitorarem sua saúde mental enquanto
 
 ## Próximos Passos:
 
-•	[ ] Validação da ideia: Pesquisar interesse em universidades e pet shops locais.
+	[ ] Validação da ideia: Pesquisar interesse em universidades e pet shops locais.
 
-•	[ ] Parcerias: Fechar acordo com pet shops que tenham estrutura para visitas.
+	[ ] Parcerias: Fechar acordo com pet shops que tenham estrutura para visitas.
 
-•	[ ] Prototipagem: Desenvolver o MVP do aplicativo para testes iniciais.
+	[ ] Prototipagem: Desenvolver o MVP do aplicativo para testes iniciais.
 
-## 👥 Contribuidores
+## 7 - 👥 Contribuidores
 
 <table>
   <tr>
