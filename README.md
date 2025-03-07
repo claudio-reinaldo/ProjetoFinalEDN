@@ -51,11 +51,9 @@ Criar um sistema que auxilie estudantes a monitorarem sua saúde mental enquanto
 
 ## Próximos Passos:
 
-	[ ] Validação da ideia: Pesquisar interesse em universidades e pet shops locais.
-
-	[ ] Parcerias: Fechar acordo com pet shops que tenham estrutura para visitas.
-
-	[ ] Prototipagem: Desenvolver o MVP do aplicativo para testes iniciais.
+- [ ] Validação da ideia: Pesquisar interesse em universidades e pet shops locais.
+- [ ] Parcerias: Fechar acordo com pet shops que tenham estrutura para visitas.
+- [ ] Prototipagem: Desenvolver o MVP do aplicativo para testes iniciais.
 
 ## 7 - 👥 Contribuidores
 
