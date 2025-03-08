@@ -55,7 +55,7 @@ Criar um sistema que auxilie estudantes a monitorarem sua saúde mental enquanto
 - [ ] Parcerias: Fechar acordo com pet shops que tenham estrutura para visitas.
 - [ ] Prototipagem: Desenvolver o MVP do aplicativo para testes iniciais.
 
-## 7 - 👥 Contribuidores
+## 7 - 👥 Colaboradores
 
 <table>
   <tr>
