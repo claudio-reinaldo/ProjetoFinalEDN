@@ -63,9 +63,6 @@ Criar um sistema que auxilie estudantes a monitorarem sua saúde mental enquanto
       <a href="https://github.com/claudio-reinaldo" title="GitHub">
         <img src="https://github.com/user-attachments/assets/08face70-eea6-4c66-a234-99ed13c5fef4" width="100px;" alt="Foto Claudio"/><br>
         <sub>
-          <b><a href="https://www.linkedin.com/in/claudioreinaldo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></b>
-        <sub>
-          <b>Claudio Reinaldo</b>
-        </sub>
-      </a>
-</div>
+          <b><a href="https://www.linkedin.com/in/claudioreinaldo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">           <sub>
+            
+  <b>Claudio Reinaldo</b>
