@@ -101,6 +101,14 @@ Banco de dados NoSQL que armazena informações, como histórico de interações
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/claudio-reinaldo" title="GitHub">
+        <img src="https://github.com/user-attachments/assets/08face70-eea6-4c66-a234-99ed13c5fef4" width="100px;" alt="Foto Claudio"/><br>
+        <sub>
+          <b>Claudio Reinaldo</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/EliasOliveira1" title="GitHub">
         <img src="https://github.com/user-attachments/assets/7c050c9f-a73a-4ffe-8867-fd48afb5ff11" width="100px;" alt="Foto Elias"/><br>
         <sub>
@@ -109,12 +117,12 @@ Banco de dados NoSQL que armazena informações, como histórico de interações
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/claudio-reinaldo" title="GitHub">
-        <img src="https://github.com/user-attachments/assets/08face70-eea6-4c66-a234-99ed13c5fef4" width="100px;" alt="Foto Claudio"/><br>
+      <a href="https://www.linkedin.com/in/leonardo-silva-19b349338/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" title="GitHub">
+        <img src="https://github.com/user-attachments/assets/b17875f6-ddf8-4dc0-a328-33152a262db2" width="100px;" alt="Foto Leo"/><br>
         <sub>
-          <b>Claudio Reinaldo</b>
+          <b>Leonardo Silva</b>
         </sub>
       </a>
-    </td>    
+    </td>
   </tr>
 </table>
