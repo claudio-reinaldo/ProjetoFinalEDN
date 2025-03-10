@@ -104,7 +104,10 @@ Banco de dados NoSQL que armazena informações, como histórico de interações
       <a href="https://github.com/claudio-reinaldo" title="GitHub">
         <img src="https://github.com/user-attachments/assets/08face70-eea6-4c66-a234-99ed13c5fef4" width="100px;" alt="Foto Claudio"/><br>
         <sub>
-          <b>Claudio Reinaldo</b>
+          <b><a href="https://www.linkedin.com/in/claudioreinaldo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+         <sub>           
+  
+  <b>Claudio Reinaldo</b>
         </sub>
       </a>
     </td>
@@ -112,15 +115,23 @@ Banco de dados NoSQL que armazena informações, como histórico de interações
       <a href="https://github.com/EliasOliveira1" title="GitHub">
         <img src="https://github.com/user-attachments/assets/7c050c9f-a73a-4ffe-8867-fd48afb5ff11" width="100px;" alt="Foto Elias"/><br>
         <sub>
-          <b>Elias Oliveira</b>
+          <b><a href="https://github.com/EliasOliveira1" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+          <sub>
+          
+  <b>Elias Oliveira</b>
         </sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/leonardo-silva-19b349338/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" title="GitHub">
+      <a href="https://www.linkedin.com/in/leonardo-silva-19b349338/" title="GitHub">
         <img src="https://github.com/user-attachments/assets/b17875f6-ddf8-4dc0-a328-33152a262db2" width="100px;" alt="Foto Leo"/><br>
         <sub>
-          <b>Leonardo Silva</b>
+          <b><a href="https://www.linkedin.com/in/leonardo-silva-19b349338/" target="_blank">
+        <sub>
+          <b><a href="https://www.linkedin.com/in/leonardo-silva-19b349338/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+          <sub>
+          
+  <b>Leonardo Silva</b>
         </sub>
       </a>
     </td>
