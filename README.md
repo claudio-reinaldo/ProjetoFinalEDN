@@ -121,10 +121,10 @@ Banco de dados NoSQL que armazena informações, como histórico de interações
   <b>Elias Oliveira</b>
         </sub>
       </a>
-    </td>
+    </td>    
     <td align="center">
       <a href="https://www.linkedin.com/in/leonardo-silva-19b349338/" title="GitHub">
-        <img src="https://github.com/user-attachments/assets/b17875f6-ddf8-4dc0-a328-33152a262db2" width="100px;" alt="Foto Leo"/><br>
+        <img src="https://github.com/user-attachments/assets/e6dcc6dc-54ea-4fd2-92db-e8af363300f3" width="100px;" alt="Foto Leo"/><br>
         <sub>
           <b><a href="https://www.linkedin.com/in/leonardo-silva-19b349338/" target="_blank">
         <sub>
