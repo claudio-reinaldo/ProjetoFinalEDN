@@ -1,3 +1,8 @@
+<table>
+  <tr>
+    <td align="center">
+<img src="https://github.com/user-attachments/assets/c3c9b9cd-a6f3-40d6-a5a9-9ceef70769f1" width="200px;" /><br>
+
 ## 🤖🧠🐾 Chatbot de Saúde Mental através de Pets com IA e AWS
 
 <p align="center"><i>Um chatbot que auxilia no tratamento mental com auxilio de pets.</i></p>
