@@ -103,7 +103,7 @@ Banco de dados NoSQL que armazena informações, como histórico de interações
 - [ ] Parcerias: Fechar acordo com pet shops que tenham estrutura para visitas.
 - [ ] Prototipagem: Desenvolver o MVP do aplicativo para testes iniciais.
 
-## 7 - 👥 Colaboradores
+## 5 - 👥 Colaboradores
 
 <table>
   <tr>
@@ -140,6 +140,19 @@ Banco de dados NoSQL que armazena informações, como histórico de interações
           
   <b>Leonardo Silva</b>
         </sub>
+      </a>
+    </td>    
+    <td align="center">
+      <a href="http://www.linkedin.com/in/pedrocaetanosvanth" title="GitHub">
+        <img src="https://github.com/user-attachments/assets/971572f8-d1b8-42eb-b7a0-88f185250985" width="100px;" alt="Foto Pedro"/><br>
+        <sub>
+          <b><a href="http://www.linkedin.com/in/pedrocaetanosvanth" target="_blank">
+        <sub>
+          <b><a href="http://www.linkedin.com/in/pedrocaetanosvanth" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+          <sub>
+          
+  <b>Leonardo Caetano</b> 
+         </sub>
       </a>
     </td>
   </tr>
