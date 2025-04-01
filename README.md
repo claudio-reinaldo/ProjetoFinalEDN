@@ -144,6 +144,19 @@ Banco de dados NoSQL que armazena informações, como histórico de interações
       </a>
     </td>    
     <td align="center">
+      <a href="http://www.linkedin.com/" title="GitHub">
+        <img src="https://github.com/user-attachments/assets/5d43eb42-6e42-4616-a919-6d4cf97fcc68" width="100px;" alt="Foto Matheus"/><br>
+        <sub>
+          <b><a href="http://www.linkedin.com/" target="_blank">
+        <sub>
+          <b><a href="http://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+          <sub>
+          
+  <b>Matheus</b>
+        </sub>
+      </a>
+    </td>    
+    <td align="center">
       <a href="http://www.linkedin.com/in/pedrocaetanosvanth" title="GitHub">
         <img src="https://github.com/user-attachments/assets/c9ae534d-4339-45d5-b755-696077cd94e3" width="100px;" alt="Foto Pedro"/><br>
         <sub>
