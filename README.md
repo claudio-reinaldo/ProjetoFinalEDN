@@ -83,7 +83,8 @@ Serviço serverless que executa funções sob demanda, possivelmente processando
 
 Banco de dados NoSQL que armazena informações, como histórico de interações ou dados relevantes para o processamento.
 
-![Fluxo](https://github.com/user-attachments/assets/d43dec30-3e2e-4beb-9a33-821049d2f28a)
+![Fluxograma2](https://github.com/user-attachments/assets/b57d04cd-9b01-4209-867d-6b6c9308bb9d)
+
 
 
 ## Execução de Utilização
